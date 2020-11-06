@@ -7,15 +7,12 @@
 HTTPASSWD_DIR=/home/ubuntu
 HTTPASSWD_USER=usuario
 HTTPASSWD_PASSWD=usuario
-
 # Definimos la contraseña de root pada DB
 DB_ROOT_PASSWD=root
-
 # IP Servidor MySQL
 IPPRIVADA=172.31.27.177
 
 # ------------------------------------------------------------------------------ Instalación de la Apache ------------------------------------------------------------------------------ 
-
 # Habilitamos el modo de shell para mostrar los comandos que se ejecutan
 set -x
 # Actualizamos la lista de paquetes
